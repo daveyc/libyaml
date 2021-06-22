@@ -18,14 +18,14 @@
 CMakeCache.txt
 CMakeFiles/
 GNUmakefile
-Makefile
+#Makefile
 Makefile.in
 /aclocal.m4
 /autom4te.cache
 /config
 config.h*
 /config.status
-/configure
+#/configure
 stamp-h1
 !config/config.h.in
 /tests/run-dumper
